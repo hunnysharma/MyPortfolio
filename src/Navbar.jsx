@@ -8,7 +8,9 @@ const Navbar = () => {
                 <div className='row'>
                     <div className='col-10 mx-auto'>
                         <nav className="navbar navbar-expand-lg navbar-light">
-                            <NavLink className="navbar-brand" to="/">My Porfolio</NavLink>
+                            <NavLink to="/"><img height="35px"  src="https://static1.squarespace.com/static/55dd330ae4b02d3720f2e7d9/t/564c0995e4b0c7323ed26091/1447823765367/HSfavicon.jpg?format=1500w"/>
+                        </NavLink>
+                            <NavLink className="navbar-brand" to="/">Himanshu Sharma</NavLink>
                             <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span className="navbar-toggler-icon"></span>
                             </button>
