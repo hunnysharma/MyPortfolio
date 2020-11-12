@@ -5,6 +5,7 @@ const Home = () => {
   return (
     <>
      <Common
+       name = 'Hey This is,'
      imgsrc = {img2}
      btn = 'Get Started'
      visit = './service'
