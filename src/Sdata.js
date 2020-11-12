@@ -10,27 +10,34 @@ import a16 from './images/a16.jpg'
 const Sdata = [
     {
         imgSrc : a11,
-        title : 'Infinite Scroll Gallery'
+        title : 'Infinite Scroll Gallery',
+        link : 'https://infinite-scroll-gallery.vercel.app/'
     },
     {
         imgSrc : a12,
-        title : 'React Photo Search'
+        title : 'React Photo Search',
+        link : 'https://react-photo-search.vercel.app/'
     },
     {
         imgSrc : a13,
-        title : 'Fun With Pure Javascript'
+        title : 'Fun With Pure Javascript',
+        link : 'https://my-expenses.vercel.app/'
     },
     {
         imgSrc : a14,
-        title : 'BLog For A Company'
+        title : 'BLog For A Company',
+        link : 'https://www.classcardapp.com/blog'
     },
     {
         imgSrc : a15,
-        title : 'E Learning Website'
+        title : 'E Learning Website',
+        link : 'https://www.legatuacademy.com/'
+
     },
     {
         imgSrc : a16,
-        title : 'App Development Using Flutter'
+        title : 'App Development Using Flutter',
+        link : '/'
     },
 ]
 export default Sdata;
