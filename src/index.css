@@ -79,3 +79,7 @@
     transform: translateY(-10px) ;
    }   
  }
+.hero {
+    background-image: url('https://placekitten.com/1200/800');
+    opacity: 0.75;
+}
