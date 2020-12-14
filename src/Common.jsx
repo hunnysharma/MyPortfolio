@@ -5,7 +5,7 @@ const Common = (props) => {
     <>
       <section id='header' className = 'd-flex align-items-center '>
         <div className='container-fluid' >
-          <img height ="300 px" className="hero" src="https://instagram.fjai1-2.fna.fbcdn.net/v/t51.2885-19/s320x320/130807449_229912048550602_5087209550368364432_n.jpg?_nc_ht=instagram.fjai1-2.fna.fbcdn.net&_nc_ohc=qZ2YZcmtOSIAX9gzk1A&tp=1&oh=ea2b0bc7a857ddf520d1fa9ec03be4a2&oe=600083F2" alt="avtar"/>
+          <img height ="80 px" className="hero" src="https://instagram.fjai1-2.fna.fbcdn.net/v/t51.2885-19/s320x320/130807449_229912048550602_5087209550368364432_n.jpg?_nc_ht=instagram.fjai1-2.fna.fbcdn.net&_nc_ohc=qZ2YZcmtOSIAX9gzk1A&tp=1&oh=ea2b0bc7a857ddf520d1fa9ec03be4a2&oe=600083F2" alt="avtar"/>
           <div className='row' >
             <div className='col-10 mx-auto'>
               <div className='row' >
