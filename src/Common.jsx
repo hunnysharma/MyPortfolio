@@ -12,8 +12,8 @@ const Common = (props) => {
                 <div className='col-md-6 pt-5 pt-lg-0 order-2 order-lg-1 d-flex justify-content-center flex-column' >
                   <h1> {props.name} <strong className='brand-name'>Himanshu Sharma</strong></h1>
                   <h2 className='my-3'>
-                  I'm Front End Developer in creating websites and interfaces and having 1+ years of experience. I'm energetic, self paced and detail oriented
-                  engineer with strong knowledge of HTML / HTML5, CSS / CSS3, JavaScript, Bootstrap, and Reactjs.
+                  I'm Front End Developer in creating websites and interfaces and having 2 years of experience. I'm energetic, self paced and detail oriented
+                  engineer with strong knowledge of HTML / HTML5, CSS / CSS3, JavaScript, jQuery, Bootstrap, and Reactjs.
                 </h2>
                   <div className='mt-3'>
                     <NavLink to={props.visit} className='btn-get-started'>{props.btn}</NavLink>
